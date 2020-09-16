@@ -1,0 +1,24 @@
+.searchBox{
+    display:none
+}
+.delgateBtn{
+    display:none
+}
+Input[type]{
+    height:45px;
+    background-color: #F2F5F9;
+    border: 0;
+}
+#cancelButton{
+    margin:0 10px 0 0;
+    height: 50px;
+    width: 110px;
+    background-color: #C4C4C4;
+    border: 0;
+}
+#saveButton{
+    height: 50px;
+    width: 110px;
+    background-color: #A65782;
+    border: 0;
+}

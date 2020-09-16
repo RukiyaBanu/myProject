@@ -1,0 +1,80 @@
+@import url('https://cdn.syncfusion.com/ej2/material.css');
+.top{
+    margin: -74px 0px -9px 72px;
+    margin-right: -70px !important;
+}
+.top li{
+    display:inline-flex;
+    margin:0 7px;
+}
+.searchGrid{
+    width:230px;
+    background-color: #FFFFFF;
+    
+}
+.filterBtn{
+    width: 61px;
+    height: 50px;
+    background: #3276E3 0% 0% no-repeat padding-box;
+border-radius: 2px;
+opacity: 1;
+}
+.delgateBtn Button{
+    width: 135px;
+    height: 50px;
+    background: #3276E3 0% 0% no-repeat padding-box;
+border-radius: 2px;
+opacity: 1;
+}
+
+.e-gridheader{
+    padding:10px 0px  10px 45px
+}
+/*dataGridHeader */
+.e-headertext{
+    font: normal normal bold 16px/20px Source Sans Pro;
+letter-spacing: 0px;
+color: #A65782;
+opacity: 1;
+}
+/*gridSort */
+.e-sortfilterdiv{
+    color: #A65782;
+    font-size: 20px;
+    font-weight: 900;
+    margin: -19px 108px 0px 0px;
+}
+/* dataGridRow */
+td{
+    padding:10px 0px;
+}
+.e-row{
+    background-color: #ffffff;
+    
+}
+.e-row:hover{
+    background-color:#CB05628B;
+}
+    .e-rowcell{
+        padding: 20px 66px;
+    }
+.e-altrow{
+    background-color:#F2F5F9
+}
+/*Paging*/
+.e-pager .e-currentitem, .e-pager .e-currentitem:hover {
+     background: transparent; 
+    color: #AD7882;
+    opacity: 1;
+}
+.rowLinks{
+    display:flex
+}
+.rowLinks h6{
+font-size: 12px !important;
+color:#CB05628B;
+padding:5px
+}
+.e-rowcell{
+    padding:0px 70px
+}

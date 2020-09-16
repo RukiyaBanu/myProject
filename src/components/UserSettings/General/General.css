@@ -1,0 +1,22 @@
+.formContainer{
+    margin:50px auto;
+    
+}
+.btn{
+    margin:30px auto;
+}
+#cancel{
+    margin:0 10px 0 0;
+    height: 60px;
+    width: 130px;
+    background-color:#0000004D;
+    border:0;
+    color:white;
+}
+#save{
+    height: 60px;
+    width: 130px;
+    background-color:#A65782;
+    color:white;
+    border:0;
+}
